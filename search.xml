@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>基本用法</title>
-    <url>/laosensen.github.io/2021/02/01/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</url>
+    <url>/2021/02/01/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</url>
     <content><![CDATA[<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><h2 id="二级"><a href="#二级" class="headerlink" title="二级"></a>二级</h2><h3 id="三级"><a href="#三级" class="headerlink" title="三级"></a>三级</h3><p>正文直接输入</p>
 <p>换行要在代码中直接空一行<br>直接换行的话没有效果</p>
 <a id="more"></a>
@@ -65,7 +65,7 @@
   </entry>
   <entry>
     <title>数组，数组首地址</title>
-    <url>/laosensen.github.io/2021/02/01/%E6%95%B0%E7%BB%84%EF%BC%8C%E6%95%B0%E7%BB%84%E9%A6%96%E5%9C%B0%E5%9D%80/</url>
+    <url>/2021/02/01/%E6%95%B0%E7%BB%84%EF%BC%8C%E6%95%B0%E7%BB%84%E9%A6%96%E5%9C%B0%E5%9D%80/</url>
     <content><![CDATA[<h1 id="数组名、取数组首地址的区别"><a href="#数组名、取数组首地址的区别" class="headerlink" title="数组名、取数组首地址的区别"></a>数组名、取数组首地址的区别</h1><h2 id="一维数组"><a href="#一维数组" class="headerlink" title="一维数组"></a>一维数组</h2><ol>
 <li><p>如数组int a[4]={0,1,2,3}</p>
 <p> &amp;a是数组a的首地址</p>
