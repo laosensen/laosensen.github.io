@@ -2917,18 +2917,9 @@ body {
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
-.site-meta {
-  padding: 20px 0;
-  color: #fff;
-  background-image: url("/images/zhilang.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  background-size: 100% 100%;
-}
 .main-inner {
   background: #fff;
-  opacity: 0.85;
+  opacity: 0.8;
 }
 .content .posts-expand .post-block {
   position: relative;
@@ -2950,4 +2941,12 @@ body {
   color: #666;
   font-size: 15px;
   word-break: break-word;
+}
+.tag-cloud a {
+  box-shadow: 0 1px 3px #6f42c1, 0 1px 2px #d9534f;
+  padding: 2px 10px;
+  margin: 8px;
+  background: rgba(193,66,92,0);
+  border-bottom: none;
+  border-radius: 20px;
 }
