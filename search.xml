@@ -80,5 +80,12 @@
 <p>int大小的4字节，而&amp;a+1是在数组首地址的基础上偏移一个sizeof(a)单位，即一个包</p>
 <p>含4个int型元素的数组。</p>
 <h2 id="二维数组"><a href="#二维数组" class="headerlink" title="二维数组"></a>二维数组</h2>]]></content>
+      <categories>
+        <category>C语言</category>
+      </categories>
+      <tags>
+        <tag>C语言</tag>
+        <tag>数组</tag>
+      </tags>
   </entry>
 </search>
