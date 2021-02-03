@@ -182,7 +182,7 @@ body {
   background: var(--body-bg-color);
   color: var(--text-color);
   font-family: Yusei Magic, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 16em;
+  font-size: 1.15em;
   line-height: 2;
   min-height: 100%;
   position: relative;
@@ -194,28 +194,28 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Yusei Magic, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Dancing Script, Yusei Magic, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 20px 0 15px;
 }
 h1 {
-  font-size: 1.5em;
+  font-size: 1.675em;
 }
 h2 {
-  font-size: 1.375em;
+  font-size: 1.55em;
 }
 h3 {
-  font-size: 1.25em;
+  font-size: 1.425em;
 }
 h4 {
-  font-size: 1.125em;
+  font-size: 1.3em;
 }
 h5 {
-  font-size: 1em;
+  font-size: 1.175em;
 }
 h6 {
-  font-size: 0.875em;
+  font-size: 1.05em;
 }
 p {
   margin: 0 0 20px;
@@ -1217,7 +1217,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Yusei Magic, Yusei Magic, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Anton, Yusei Magic, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   margin: 0;
